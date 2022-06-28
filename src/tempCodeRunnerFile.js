@@ -1,3 +1,3 @@
- if (array.length === 0) {
-    return undefined;
-  }
+//  if (array.length === 0) {
+//     return undefined;
+//   }
